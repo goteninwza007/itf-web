@@ -1,4 +1,4 @@
 <?php
 echo "GOODDDDDDDD";
-echo "BYEEEEEEEEE";
+echo "BYEEEEEEEEE<br>";
 ?>
